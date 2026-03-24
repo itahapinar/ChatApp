@@ -1,0 +1,14 @@
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\bin\Debug\net8.0\ChatServer.exe
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\bin\Debug\net8.0\ChatServer.dll
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.dll
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+C:\Users\Taha\Desktop\Projects\LocalChat\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll

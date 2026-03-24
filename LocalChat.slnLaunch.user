@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "ChatServer\\ChatServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "ChatServer"
+      },
+      {
+        "Path": "ChatClient\\ChatClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "ChatClient"
+      }
+    ]
+  }
+]
